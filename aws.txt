@@ -6,4 +6,9 @@ configuring root table subnet public subnet private subnet nat gateway
 IAM Identity Access Mnagement
 EC2 Elastic cloud compute creating server on a remote repositories
 S3 simple storage service object storage or flat storage
+cloud formation
+cloud trail
+cloud watch
+ops work
+ECS Elastic Container service
 
