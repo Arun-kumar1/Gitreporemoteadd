@@ -3,3 +3,8 @@ Storing data via internet
 storing unlimited amount of data
 Vpc Virtual private cloud creating your own network
 configuring root table subnet public subnet private subnet nat gateway
+cloud formation
+cloud trail
+cloud watch
+ops work
+ECS Elastic Container service
