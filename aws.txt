@@ -3,3 +3,7 @@ Storing data via internet
 storing unlimited amount of data
 Vpc Virtual private cloud creating your own network
 configuring root table subnet public subnet private subnet nat gateway
+IAM Identity Access Mnagement
+EC2 Elastic cloud compute creating server on a remote repositories
+S3 simple storage service object storage or flat storage
+
