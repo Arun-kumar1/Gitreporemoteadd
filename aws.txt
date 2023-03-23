@@ -1,3 +1,5 @@
 AWS Amazon Web service Cloud computing 
 Storing data via internet
 storing unlimited amount of data
+Vpc Virtual private cloud creating your own network
+configuring root table subnet public subnet private subnet nat gateway
